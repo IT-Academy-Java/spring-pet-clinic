@@ -9,5 +9,4 @@ class SpringPetClinicApplicationTests {
   @Test
   void contextLoads() {
   }
-
 }
